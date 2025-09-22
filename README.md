@@ -2,8 +2,9 @@
 A comprehensive data analysis project that uses SQL for data querying and calculation, followed by Power BI for building an interactive sales dashboard.
 
 
-
+Dashboard View - Page 1
 ![Screenshot 2025-05-20 224835](https://github.com/Thanusha8/Sales-Analysis-SQL-Power-BI/blob/main/Assets/Home.png)
+Dashboard View - Page 2
 ![Screenshot 2025-05-20 224835](https://github.com/Thanusha8/Sales-Analysis-SQL-Power-BI/blob/main/Assets/Best%20%26%20Worst%20Sellers.png)
 
 ## Dashboard Link
